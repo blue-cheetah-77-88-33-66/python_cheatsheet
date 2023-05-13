@@ -18,7 +18,8 @@ There are four collection data types in the Python programming language:
 
 <b>When choosing a collection type, it is useful to understand the properties of that type. Choosing the right type for a particular data set could mean retention of meaning, and, it could mean an increase in efficiency or security.</b>
 
-<h2>Temel Python Konuları</h2>
+<h3>Temel Python Konuları</h3>
+
 1. Python
 1.1. Python’a Giriş
 1.2. Ortam Kurulumu
