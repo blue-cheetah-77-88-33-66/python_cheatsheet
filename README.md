@@ -73,3 +73,19 @@ There are four collection data types in the Python programming language:
 6)Doğal Dil İşleme
 7)Web veri çıkarımı
 8)Web Geliştirme
+
+![image](https://github.com/mustafasbahar59/python_cheatsheet/assets/117897880/72b934e8-3a07-4fd0-8629-5942b9e41c04)![image](https://github.com/mustafasbahar59/python_cheatsheet/assets/117897880/d7d80d6d-ce32-40de-ac1f-342cb6ea6988)![image](https://github.com/mustafasbahar59/python_cheatsheet/assets/117897880/3efaaf78-baf8-4b5e-ae01-f68f55b74894)
+![image](https://github.com/mustafasbahar59/python_cheatsheet/assets/117897880/9683aa72-9e25-456a-bdf9-f0fc90561f26)![image](https://github.com/mustafasbahar59/python_cheatsheet/assets/117897880/0115c810-70ad-4812-859f-725f4f0507f6)
+![image](https://github.com/mustafasbahar59/python_cheatsheet/assets/117897880/a66dbf5a-18f6-475e-b018-480afc5934e3)![image](https://github.com/mustafasbahar59/python_cheatsheet/assets/117897880/956c6894-ccd6-4ef9-9504-dc527c17ef82)![image](https://github.com/mustafasbahar59/python_cheatsheet/assets/117897880/b91b8e68-2f58-45cc-be5b-b3a084592513)
+![image](https://github.com/mustafasbahar59/python_cheatsheet/assets/117897880/4487dd9b-ecef-41c1-a733-737aaf57eb9f)![image](https://github.com/mustafasbahar59/python_cheatsheet/assets/117897880/282b7d07-1f4b-4e3b-b90a-9e64ddab6b5b)
+![image](https://github.com/mustafasbahar59/python_cheatsheet/assets/117897880/7d1755bd-b6ea-480e-8cfd-64a30ec9e55d)![image](https://github.com/mustafasbahar59/python_cheatsheet/assets/117897880/c3c669c6-007f-444c-a3a6-52e33bb8aa2e)
+![image](https://github.com/mustafasbahar59/python_cheatsheet/assets/117897880/829a7f5f-a5c2-4b05-9c7b-b5a26ff6858e)
+![image](https://github.com/mustafasbahar59/python_cheatsheet/assets/117897880/c04dfb32-d3de-461a-9edd-130b7904f4ae)
+
+
+
+
+
+
+
+
